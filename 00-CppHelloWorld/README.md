@@ -5,4 +5,4 @@
 - Legajo: 2095014
 - Apellido: Zajdenberg
 - Nombre: Martín
-- la version es 201402 
+- compilador MinGWEJuno_v2.6.2, version:201402 
